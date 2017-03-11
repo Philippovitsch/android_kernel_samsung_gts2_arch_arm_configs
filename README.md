@@ -1,2 +1,0 @@
-# android_kernel_samsung_gts2_arch_arm_configs
-cm_exynos5433-gts28lte_defconfig
